@@ -18,7 +18,7 @@ The rendering is going to write PFM files to the `std::cout`, so run like so:
 ```
 
 ## Example Output 
-![Ray Traced Marbles](https://github.com/l-oneil/ray-tracing/blob/main/examples/in-one-weekend-final.jpg)
+![Ray Traced Marbles](https://github.com/l-oneil/ray-tracing/blob/master/examples/in-one-weekend-final.jpg")
 
 
 ## Acknowledgements
