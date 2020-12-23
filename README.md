@@ -25,5 +25,6 @@ The rendering is going to write PFM files to the `std::cout`, so run like so:
 * This repo is based wholly on the course [_Ray Tracing in One Weekend_](https://raytracing.github.io/), very little code is my own, please check this out!
 
 
-## Useful Add-ons
+## Useful Links
 * [VS Code PPM Viewer](https://marketplace.visualstudio.com/items?itemName=AYH.ppmviewer)
+* [Nvidia Ray Tracing Basics](https://www.youtube.com/watch?v=gBPNO6ruevk&list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
